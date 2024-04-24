@@ -15,7 +15,7 @@
 
   ```
 git clone https://github.com/CezarySzukiel/Django-React_template.git
-cd django-react_template/backend_core/env/
+cd Django-React_template/backend_core/env/
 mv .env_demo .env
 docker compose up
 ```
