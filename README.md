@@ -17,8 +17,8 @@ cd Django-React_template/backend_core/env/
 mv .env_demo .env
 docker compose up
 ```
-open in browser localhost:8080/ 
-login as:
+open in browser http://localhost:8080/
+ and login as:
 - user1
 - your.email@gmail.com
 - secret
